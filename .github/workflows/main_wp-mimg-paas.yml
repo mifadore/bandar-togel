@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'wp-mimg-paas'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED218924460447B9B83D2DF99334FBDE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E42E1E602B874E49B37A9E07528B2ADA }}
           package: .
